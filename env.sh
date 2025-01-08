@@ -30,3 +30,6 @@ export OMPI_MCA_btl_tcp_if_include=ib0
 #export          NETCDF_FORTRAN_BIN=$DIR/bin
 #export          NETCDF_FORTRAN_LIB=$DIR/lib
 #export          NETCDF_FORTRAN_INC=$DIR/include
+
+history -c
+
