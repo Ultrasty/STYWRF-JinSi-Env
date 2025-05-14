@@ -1,3 +1,4 @@
+module load compiler/cmake/3.20.1
 
 export DIR=/public/home/qinbo/spack/var/spack/environments/wrf430env/.spack-env/._view/v6wyhcrk63lyyxlvu2nw72wgb54iz7me
 
